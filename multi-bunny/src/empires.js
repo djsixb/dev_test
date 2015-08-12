@@ -6,7 +6,7 @@
 
   WIDTH = 800;
 
-  HEIGHT = 500;
+  HEIGHT = 600;
 
   stage = new PIXI.Stage(0xFFFFAA);
 
@@ -255,3 +255,5 @@
   return;
 
 }).call(this);
+
+//# sourceMappingURL=empires.js.map
